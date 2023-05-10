@@ -17,3 +17,9 @@ Leider werden in PowerQuery und Power BI die Kalenderwochen nur nach der amerika
 ## Zerlegen von Listeneinträgen aus Anfangs- und Enddatum in Monatseinträge
 
 [Tutorial](/tutorials/StartEnde.md)
+
+# Hash-Funktionen um Daten zu anonymisieren
+
+Es gibt immer mal die Notwendigkeit Daten vor der Weiterverarbeitung in Excel oder Power BI zu anonymisieren, damit die Nutzer der Daten nicht auf die originalen Daten rückschlißen können. Dazu können Hash-Funktionen genutzt werden. 
+
+[Tutorial](/tutorials/HashFunktion.md)
