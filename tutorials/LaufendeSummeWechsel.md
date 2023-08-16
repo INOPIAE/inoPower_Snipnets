@@ -1,6 +1,6 @@
 # Berechnung eines Meausres zur laufenden Summe von aktuellen und Forecast Werten in einem Measure
 
-DIn diesem Tutorial wird das Measure in Power Pivot mit den drei Tabellen 
+In diesem Tutorial wird das Measure in Power Pivot mit den drei Tabellen 
 * Actuals mit Datum und den aktuellen Werten
 * Forecast mit Datum und den Forecastwerten
 * Kalendertabelle als Datumstabelle
@@ -105,4 +105,4 @@ Return Total
 
 ## Beispiel
 
-Das fertige Ergebnis ist in der [Beispieldatei YTD.xlsx](/samples/YTD.xlsx) nachvollziehbar.
+Das fertige Ergebnis ist in der [Beispieldatei YTD.xlsx](/samples/YTD.xlsx) nachvollziehbar. Es muss das Com-Addin PowerPivot für Excel aktiviert sein, um den Code unter Power Pivot - Verwalten auf der Tabelle Measures ansehen zu können.
