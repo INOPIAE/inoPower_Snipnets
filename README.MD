@@ -26,6 +26,12 @@ Es gibt immer mal die Notwendigkeit Daten vor der Weiterverarbeitung in Excel od
 
 ## Berechnung eines Meausres zur laufenden Summe von aktuellen und Forecast Werten in einem Measure
 
-Die Bewrechnjung der fortlaufenden Summe von aktuellen und Forecast Werten in einem Measure kann nicht einfach erstellt werden. Die Schwierugkeit ist den Wechsel von Aktuell zu Forecast herauszuarbeiten. 
+Die Berechnung der fortlaufenden Summe von aktuellen und Forecast Werten in einem Measure kann nicht einfach erstellt werden. Die Schwierigkeit ist den Wechsel von Aktuell zu Forecast herauszuarbeiten. 
 
 [Tutorial](/tutorials/LaufendeSummeWechsel.md)
+
+## Erstellen einer Abfrage um daten aus einem Sharepoint Ordner zu importeren.
+
+In diesem Tutorial wird der maunelle Import von Dateien aus einem Sharepoint-Ordner aufgezeigt.
+
+[Tutorial](/tutorials/SharepointFolder.md)
