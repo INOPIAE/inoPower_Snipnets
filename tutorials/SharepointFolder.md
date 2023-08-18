@@ -1,6 +1,6 @@
 # Daten aus einen Sharepoint-Ordner abrufen
 
-Das einbinden eines Sharepoint-Ordners ist mit dem Assistenten recht hackelig.
+Das Einbinden eines Sharepoint-Ordners ist mit dem Assistenten recht hackelig.
 
 Am einfachsten geht es über diesen Weg.
 
@@ -37,3 +37,31 @@ Power Query generiert einige neue Elemente.
 Nun muss die Abfrage Beispieldatei Transformieren so bearbeitet werden, dass alle notwendigen Aufbereitungsschritte umgesetzt werden.
 
 Meistens muss zum Schluss noch der letzte Schritte aus der primären Abfrage gelöscht werden, da es hier zu Namenskolisionen kommt.
+
+## Anpassen der Abfrage Beispieldatei
+
+Standardmäßig wird die erste Datei der Dateiliste als Beispieldatei genommen.
+
+Code aus dem Erweiteren Editor
+
+``` 
+let
+    Quelle = SharePoint.Files("https://my.domain.tld/sites/MySite/", [ApiVersion = 15]),
+    Filter = Table.SelectRows(Quelle, each ([Extension] = ".xlsx")),
+    Navigation = Filter{0}[Content]
+in
+    Navigation
+```
+
+Wenn eine spezielle Datei genommen werden soll, muss der Pfad zur Datei angegeben werden:
+
+Code aus dem Erweiteren Editor
+
+``` 
+let
+    Quelle = SharePoint.Files("https://my.domain.tld/sites/MySite/", [ApiVersion = 15]),
+    Filter = Table.SelectRows(Quelle, each ([Extension] = ".xlsx")),
+    Navigation = Filter{[Name="00_PQ_Transformationen_052018_00.xlsx",#"Folder Path"="https://my.domain.tld/sites/MySite/Shared Documents/General/"]}[Content]
+in
+    Navigation
+```
