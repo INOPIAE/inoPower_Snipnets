@@ -41,3 +41,9 @@ In diesem Tutorial wird der maunelle Import von Dateien aus einem Sharepoint-Ord
 In diesem Tutorial wird gezeigt, wie in Excel der Pfad zur importierten Datei einer PowerQuery-Abfrage in Excel gesteuert werden kann.
 
 [Tutorial](/tutorials/PowerQueryExcelImport.md)
+
+# PowerQuery als Ersatz für die Funktion SVerweis in Excel
+
+In diesem Tutorial wird gezeigt wie man die Funktionalität der Excelfunktion SVerweis in PowerQuery abbildet.
+
+[Tutorial](/tutorials/SVerweisErsatz.md)
