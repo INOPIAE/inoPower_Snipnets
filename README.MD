@@ -35,3 +35,9 @@ Die Berechnung der fortlaufenden Summe von aktuellen und Forecast Werten in eine
 In diesem Tutorial wird der maunelle Import von Dateien aus einem Sharepoint-Ordner aufgezeigt.
 
 [Tutorial](/tutorials/SharepointFolder.md)
+
+## PowerQuery als Ersatz für die Funktion SVerweis in Excel
+
+In diesem Tutorial wird gezeigt wie man die Funktionälität der Excelfunktion SVerweis in PowerQuery abbildet.
+
+[Tutorial](/tutorials/SVerweisErsatz.md)
