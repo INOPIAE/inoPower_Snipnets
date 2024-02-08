@@ -42,7 +42,7 @@ In diesem Tutorial wird gezeigt, wie in Excel der Pfad zur importierten Datei ei
 
 [Tutorial](/tutorials/PowerQueryExcelImport.md)
 
-# PowerQuery als Ersatz für die Funktion SVerweis in Excel
+## PowerQuery als Ersatz für die Funktion SVerweis in Excel
 
 In diesem Tutorial wird gezeigt wie man die Funktionalität der Excelfunktion SVerweis in PowerQuery abbildet.
 
