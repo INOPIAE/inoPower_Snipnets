@@ -30,14 +30,14 @@ Die Berechnung der fortlaufenden Summe von aktuellen und Forecast Werten in eine
 
 [Tutorial](/tutorials/LaufendeSummeWechsel.md)
 
-## Erstellen einer Abfrage um daten aus einem Sharepoint Ordner zu importeren.
+## Erstellen einer Abfrage um Daten aus einem Sharepoint Ordner zu importeren.
 
 In diesem Tutorial wird der maunelle Import von Dateien aus einem Sharepoint-Ordner aufgezeigt.
 
 [Tutorial](/tutorials/SharepointFolder.md)
 
-## PowerQuery als Ersatz für die Funktion SVerweis in Excel
+## PowerQuery Import aus Excel steuern
 
-In diesem Tutorial wird gezeigt wie man die Funktionälität der Excelfunktion SVerweis in PowerQuery abbildet.
+In diesem Tutorial wird gezeigt, wie in Excel der Pfad zur importierten Datei einer PowerQuery-Abfrage in Excel gesteuert werden kann.
 
-[Tutorial](/tutorials/SVerweisErsatz.md)
+[Tutorial](/tutorials/PowerQueryExcelImport.md)
