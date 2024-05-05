@@ -65,3 +65,16 @@ let
 in
     Navigation
 ```
+
+# Hinzufügen von Dateiinformationen zur Abfrage
+
+Einige Dateiinformationen können aus dem Sharepoint gezogen werden, z.B das Änderungsdatum der Datei.
+
+Dazu kann in einem beliebigen späteren Schritt auf den Schritt `Filter` zugeriffen werden.
+
+Hier der Code das Änderungsdatum.
+
+``` 
+    Änderungsdatum = Table.AddColumn(#"Geänderter Typ", "Änderungsdatum", each List.Max(Filter[Date modified])),
+    #"Geänderter Typ1" = Table.TransformColumnTypes(Änderungsdatum,{{"Änderungsdatum", type datetime}})
+```
