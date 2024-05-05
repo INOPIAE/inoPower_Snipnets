@@ -34,7 +34,7 @@ Für die Auswertung werden die beiden Tabellen `Nordwind` und `Neukunden` in der
 
 ## Beispiel
 
-Das fertige Ergebnis ist in der [Nordwind.pbix](/samples/PowerBI/Dashboards) nachvollziehbar. 
+Das fertige Ergebnis ist in der [Nordwind.pbix](/samples/PowerBI/Dashboards/Nordwind.pbix) nachvollziehbar. 
 
 Die Beispieldatei ist mit der PowerBI Version April 2024 erstellt worden. 
 
