@@ -41,3 +41,9 @@ In diesem Tutorial wird der maunelle Import von Dateien aus einem Sharepoint-Ord
 In diesem Tutorial wird gezeigt, wie in Excel der Pfad zur importierten Datei einer PowerQuery-Abfrage in Excel gesteuert werden kann.
 
 [Tutorial](/tutorials/PowerQueryExcelImport.md)
+
+## # Bilder in Power BI nutzen
+
+In diesem Tutorial wird gezeigt, wie Bilder in Power BI genutzt werden können.
+
+[Tutorial](/tutorials/PowerBiBilder.md)
