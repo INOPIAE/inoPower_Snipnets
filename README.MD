@@ -42,6 +42,18 @@ In diesem Tutorial wird gezeigt, wie in Excel der Pfad zur importierten Datei ei
 
 [Tutorial](/tutorials/PowerQueryExcelImport.md)
 
+## PowerQuery als Ersatz für die Funktion SVerweis in Excel
+
+In diesem Tutorial wird gezeigt wie man die Funktionalität der Excelfunktion SVerweis in PowerQuery abbildet.
+
+[Tutorial](/tutorials/SVerweisErsatz.md)
+
+## Kohortenanalyse in Power BI
+
+Bei der Kohortenanalyse geht es darum Daten in dynamischen Bereichen zusammenzufassen und diese auszuwerten. Dazu wird als Basisfunktionalität die DAX-Funktion `SUMMERIZE` verwendet.
+
+[Tutorial](/tutorials/Kohortenanalyse.md)
+
 ## # Bilder in Power BI nutzen
 
 In diesem Tutorial wird gezeigt, wie Bilder in Power BI genutzt werden können.
