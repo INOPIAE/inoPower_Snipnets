@@ -22,7 +22,7 @@ Dazu wird die Spalte in Power Query mit dem Befehl `Transformieren - Textspalte 
 
 ![Screenshot Spalte teilenL](/sources/powerbi_spalten_teilen.png)
 
-Hier wird die Anzahl der Zeichen auf 30.000 eingegeben und in den Erwiterten Option Aufteilen in Spalten ausgewählt.
+Hier wird die Anzahl der Zeichen auf 30.000 eingegeben und in den Erweiterten Option Aufteilen in Spalten ausgewählt.
 
 Anschließen wird noch einen Idexspalte beginnend von 0 hinzugefügt.
 
