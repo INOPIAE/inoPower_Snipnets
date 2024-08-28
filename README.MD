@@ -54,8 +54,14 @@ Bei der Kohortenanalyse geht es darum Daten in dynamischen Bereichen zusammenzuf
 
 [Tutorial](/tutorials/Kohortenanalyse.md)
 
-## # Bilder in Power BI nutzen
+## Bilder in Power BI nutzen
 
 In diesem Tutorial wird gezeigt, wie Bilder in Power BI genutzt werden können.
 
 [Tutorial](/tutorials/PowerBiBilder.md)
+
+## Visuals in Power BI dynamisch ein- oder ausblenden
+
+In diesem Tutorial wird gezeigt, wie Visuals in Power BI dynamisch ein- oder ausgeblendet werden können.
+
+[Tutorial](/tutorials/VisualsAusblenden.md)
