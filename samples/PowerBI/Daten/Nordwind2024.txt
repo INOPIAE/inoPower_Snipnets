@@ -5891,4 +5891,4 @@ Artikel-Nr	Artikelname	Einzelpreis	Anzahl	Rabatt	Bestelldatum	Kategoriename	Firm
 74	Longlife Tofu	9,18	18	0%	26.04.2024	Naturprodukte	Díaz-Abastos	Venezuela	Davolio
 59	Raclette Courdavault	65,48	34	0%	27.04.2024	Milchprodukte	Frankenversand	Deutschland	Callahan
 73	Röd Kaviar	12,14	24	20%	27.04.2024	Meeresfrüchte	Frankenversand	Deutschland	Callahan
-11	Queso Cabrales	21,97	17	25%	28.04.2024	Milchprodukte	Piccolo und mehr	Österreich	Suyama
+11	Queso Cabrales	21,97	17	25%	28.06.2024	Milchprodukte	Piccolo und mehr	Österreich	Suyama

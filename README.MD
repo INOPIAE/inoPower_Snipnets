@@ -65,3 +65,11 @@ In diesem Tutorial wird gezeigt, wie Bilder in Power BI genutzt werden können.
 In diesem Tutorial wird gezeigt, wie Visuals in Power BI dynamisch ein- oder ausgeblendet werden können.
 
 [Tutorial](/tutorials/VisualsAusblenden.md)
+
+## Power BI: fehlende Monate darstellen
+
+Standardmäßig werden Power BI nur die Datenpunkte angezeigt, zu denen Werte vorhanden sind. Datenpunkte mit Null-Werte werden nicht angezeigt. 
+
+Das Tutorial zeigt, wie diese Werte trotzdem dargestellt werden können.
+
+[Tutorial](/tutorials/MonateMitNullwerten.md)
