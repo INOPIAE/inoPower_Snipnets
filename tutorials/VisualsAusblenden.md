@@ -35,5 +35,5 @@ Hier wird der Formatstil Feldwert und das Measure als Feld ausgewählt.
 
 ## Beispiel
 
-Die einzelnen Schritte sowie das fertige Ergebnis sind in der Datei [Nordwind.pbix](/samples/PowerBI/Dashboards/Nordwind.pbix) auf der Seite dynamischesEin- und Ausblenden nachvollziehbar.
+Die einzelnen Schritte sowie das fertige Ergebnis sind in der Datei [Nordwind.pbix](/samples/PowerBI/Dashboards/Nordwind.pbix) auf der Seite `Ein- und Ausblenden` nachvollziehbar.
 
