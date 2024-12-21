@@ -73,3 +73,11 @@ Standardmäßig werden Power BI nur die Datenpunkte angezeigt, zu denen Werte vo
 Das Tutorial zeigt, wie diese Werte trotzdem dargestellt werden können.
 
 [Tutorial](/tutorials/MonateMitNullwerten.md)
+
+## Power BI: Dynamische formatierte Kommentar
+
+Wenn einzelne Datensätze kommentiert und dabei der Kommentar auch noch formatiert sein soll, führen die einfachen Ansätzen von Power BI nicht zum Ziel.
+
+Das Tutorial zeigt, wie diese Kommentare erstellt und in Power BI dargestellt werden können.
+
+[Tutorial](/tutorials/KommentareInPowerBI.md)
