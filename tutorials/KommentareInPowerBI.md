@@ -3,15 +3,15 @@
 Wenn Kommentare formatiert in Power BI dynamisch angezeigt werden sollen, müssen diese als Text zur Verfügung gestellt werden, der schon die Formatierung enthält.
 
 Hier bieten sich unter anderem drei Varianten an:
-- RTF (Rich Text Format), hier für benötigt man einen Programm das die Eingabe der Formatierung zulässt. (Excel, Sharepointlisten)
-- HTML, hier sollte der HTML Syntax bekannt sein und die Eingabe muss die Regeln von HTML befolgen. Es gibt für die Ausgabe mehrer Visiuals, die die Ausgabe von HTML unterstützen.
+- RTF (Rich Text Format), hier für benötigt man einen Programm, das die Eingabe der Formatierung zulässt. (Excel, SharePoint Listen)
+- HTML, hier sollte der HTML Syntax bekannt sein und die Eingabe muss die Regeln von HTML befolgen. Für die Ausgabe von HTML gibt es mehrere Visuals im Microsoft Store.
 - Markdown, ist eine relative einfache Auszeichnungsprache, die mit relativ wenig Formatierungsanweisungen auskommt. [Markdown bei wikipedia](https://de.wikipedia.org/wiki/Markdown), [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 
 ## Aufbau der Daten
 Die Daten der Kommentare werden in einer kleinen Tabelle angelegt. 
 
 Diese sollte mindestens 2 Spalten enthalten:
-- eine Spalte, die Verknüfungen zu den andern Daten der Auswertung ermöglicht. Dies kann einen ID-Spalte oder auch eine Datumspalte sein.
+- eine Spalte, die Verknüfungen zu den anderen Daten der Auswertung ermöglicht. Dies kann einen ID-Spalte oder auch eine Datumspalte sein.
 - eine Spalte für den Kommentar
 
 Die Tabelle wird am besten in Excel oder als Sharepointliste angelegt.
