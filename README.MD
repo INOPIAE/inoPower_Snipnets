@@ -81,3 +81,7 @@ Wenn einzelne Datensätze kommentiert und dabei der Kommentar auch noch formatie
 Das Tutorial zeigt, wie diese Kommentare erstellt und in Power BI dargestellt werden können.
 
 [Tutorial](/tutorials/KommentareInPowerBI.md)
+
+## PowerQuery: Datum umwandeln
+
+manchmal klappt die einfache Umwandlung von Datumswerten in eine saubers Datumsdatenfeld nicht. In dem Tutorial [Datum umwandeln](/tutorials/DatumUmwandeln.md) wird eine Lösung aufgezeigt.
