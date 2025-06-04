@@ -84,4 +84,8 @@ Das Tutorial zeigt, wie diese Kommentare erstellt und in Power BI dargestellt we
 
 ## PowerQuery: Datum umwandeln
 
-manchmal klappt die einfache Umwandlung von Datumswerten in eine saubers Datumsdatenfeld nicht. In dem Tutorial [Datum umwandeln](/tutorials/DatumUmwandeln.md) wird eine Lösung aufgezeigt.
+Manchmal klappt die einfache Umwandlung von Datumswerten in eine saubers Datumsdatenfeld nicht. In dem Tutorial [Datum umwandeln](/tutorials/DatumUmwandeln.md) wird eine Lösung aufgezeigt.
+
+## Power BI: Zeitpunkt der letzten Aktualisierung in Power BI
+
+ In dem Tutorial [Zeitpunkt der letzten Aktualisierung in Power BI](/tutorials/PowerBILetzteAktualisierung.md) wird aufgezeigt, wie in Power BI der Zeitpunkt der letzten Aktualiserung der Daten angezeigt werden kann.
