@@ -64,3 +64,20 @@ let
 ```
 
 Der Begriff in der Klammer bei fktImport muss einem Eintrag der der Exceltabelle entsprechen.
+
+### Erweiterung um automatisch lokale oder Sharepointpfade zu verwenden
+Mit dem folgenden Code kann der Import noch so erweiteret werden, dass PowerQuery selbständig erkennt, ob die Datei lokal liegt (klassicher Pfad) oder im Sharepoint liegt.
+
+```
+let
+    Datei = try fktImport("Dateiname"),
+    Quelle =
+        if Datei[HasError] then
+            null
+        else
+            if Text.StartsWith(Datei[Value], "http") then
+                Excel.Workbook(Web.Contents(Datei[Value]), null, true)
+            else
+                Excel.Workbook(File.Contents(Datei[Value]), null, true),
+...
+```
