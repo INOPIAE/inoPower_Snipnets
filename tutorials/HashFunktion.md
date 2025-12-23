@@ -57,7 +57,7 @@ Hier wird nun bei Funktionsabfrgae die HashFunktion ausgewählt bei x die Spalte
 
 ![Screenshot Nutzen der Hash-Funktion](/sources/HashFunktion.png)
 
-Die einzelnen Schritte sowie das fertige Ergebnis sind in der [Beispieldatei HashFunktion.xlsx](/samples/HashFunktion.xlsx) nachvollziehbar.
+Die einzelnen Schritte sowie das fertige Ergebnis sind in der [Beispieldatei HashFunktion.xlsx](/samples/hashFunktion.xlsx) nachvollziehbar.
 
 Ausgangspunkt für diese Funktion war dieser Blogbeitrag 
 [https://community.powerbi.com/t5/Desktop/Privacy-Hashing-of-keys/m-p/110574](https://community.powerbi.com/t5/Desktop/Privacy-Hashing-of-keys/m-p/110574)

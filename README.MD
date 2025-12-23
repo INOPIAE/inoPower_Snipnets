@@ -89,3 +89,7 @@ Manchmal klappt die einfache Umwandlung von Datumswerten in eine saubers Datumsd
 ## Power BI: Zeitpunkt der letzten Aktualisierung in Power BI
 
  In dem Tutorial [Zeitpunkt der letzten Aktualisierung in Power BI](/tutorials/PowerBILetzteAktualisierung.md) wird aufgezeigt, wie in Power BI der Zeitpunkt der letzten Aktualiserung der Daten angezeigt werden kann.
+
+## PowerQuery: Adressen für Serienbrief mit Tabulator und Zeilenumbruch vorbereiten 
+
+Ziel ist es Adressdaten für einen Serienbrief so aufzubereiten, dass mehrere Spalten mit einem Tabulator zusammengefasst werden und danach mehrer Datensätze eines Kunden zusammengefasst werden, wobei die Teildatensätze durch einen Zeilenumbruch getrennt werden sollen. In dem Tutorial [Adressen für Serienbrief](/tutorials/AdresseSerienbriefZusammenfassung.md) wird eine Lösung aufgezeigt.
