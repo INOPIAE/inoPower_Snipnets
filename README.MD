@@ -93,3 +93,7 @@ Manchmal klappt die einfache Umwandlung von Datumswerten in eine saubers Datumsd
 ## PowerQuery: Adressen für Serienbrief mit Tabulator und Zeilenumbruch vorbereiten 
 
 Ziel ist es Adressdaten für einen Serienbrief so aufzubereiten, dass mehrere Spalten mit einem Tabulator zusammengefasst werden und danach mehrer Datensätze eines Kunden zusammengefasst werden, wobei die Teildatensätze durch einen Zeilenumbruch getrennt werden sollen. In dem Tutorial [Adressen für Serienbrief](/tutorials/AdresseSerienbriefZusammenfassung.md) wird eine Lösung aufgezeigt.
+
+## PowerQuery: REST-API Zugriff
+
+Am einem einfachen Beispiel wird der Zugriff auf eine REST-API im Tutorial [REST-API Zugriff](/tutorials/RestAPI.md) dargestellt.
